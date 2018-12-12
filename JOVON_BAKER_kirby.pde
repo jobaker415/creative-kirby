@@ -39,5 +39,4 @@ ellipse(195,130,50,20);
 //left blush
 fill(255,153,153);
 ellipse(355,115,50,20);
-//save function
-save("JOVON.Eyeball.Drawing.png");
+
